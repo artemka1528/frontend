@@ -1,0 +1,10 @@
+<svg>
+<symbol id="close_burger" width="18.000000" height="18.000000" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<path id="Vector" d="M17.82 1.55L16.27 0L8.91 7.36L1.55 0L0 1.55L7.36 8.91L0 16.27L1.55 17.82L8.91 10.46L16.27 17.82L17.82 16.27L10.46 8.91L17.82 1.55Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M11.17 8.2L17.12 2.25L17.82 1.55L17.12 0.84L16.98 0.7L16.27 0L15.57 0.7L9.62 6.65L8.91 7.36L8.2 6.65L1.55 0L0 1.55L6.65 8.2L7.36 8.91L6.65 9.62L0.7 15.57L0 16.27L0.7 16.98L0.84 17.12L1.55 17.82L2.25 17.12L8.2 11.17L8.91 10.46L9.62 11.17L15.57 17.12L16.27 17.82L16.98 17.12L17.12 16.98L17.82 16.27L17.12 15.57L11.17 9.62L10.46 8.91L11.17 8.2ZM16.41 16.27L9.05 8.91L16.41 1.55L16.27 1.41L8.91 8.77L1.55 1.41L1.41 1.55L8.77 8.91L1.41 16.27L1.55 16.41L8.91 9.05L16.27 16.41L16.41 16.27Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+</symbol>
+</svg>
